@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=HarlessAnimRoom,Windows=HarlessAnimRoom,_Debug=HarlessAnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=HarlessAnimRoom,Windows=HarlessAnimRoom,_Debug=HarlessAnimRoom,Web=HarlessAnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>

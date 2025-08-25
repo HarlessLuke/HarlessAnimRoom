@@ -1,0 +1,1 @@
+var gamefiles = ['HarlessAnimRoom.ags', 'acsetup.cfg'];
