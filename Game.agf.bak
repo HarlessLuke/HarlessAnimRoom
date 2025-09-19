@@ -2508,7 +2508,7 @@
             <SpeechView>0</SpeechView>
             <StartX>290</StartX>
             <StartY>305</StartY>
-            <StartingRoom>2</StartingRoom>
+            <StartingRoom>3</StartingRoom>
             <ThinkingView>0</ThinkingView>
             <TurnBeforeWalking>True</TurnBeforeWalking>
             <TurnWhenFacing>True</TurnWhenFacing>
@@ -4807,7 +4807,7 @@
                   </Sprite>
                   <Sprite Slot="10" Width="58" Height="85" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\lharless\Downloads\HeagneyJump\sprite_3.png</FileName>
+                      <FileName>C:\Users\lharless\Downloads\BHJumpCrouch1.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
@@ -4823,7 +4823,7 @@
                   </Sprite>
                   <Sprite Slot="11" Width="58" Height="85" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\lharless\Downloads\HeagneyJump\sprite_4.png</FileName>
+                      <FileName>C:\Users\lharless\Downloads\BHJumpCrouch2.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
@@ -4855,7 +4855,7 @@
                   </Sprite>
                   <Sprite Slot="13" Width="58" Height="85" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\lharless\Downloads\HeagneyJump\sprite_6.png</FileName>
+                      <FileName>C:\Users\lharless\Downloads\BHJumpApex.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
@@ -5123,20 +5123,13 @@
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
                         <ID>2</ID>
-                        <Image>9</Image>
-                        <Sound>0</Sound>
-                      </ViewFrame>
-                      <ViewFrame>
-                        <Delay>0</Delay>
-                        <Flipped>False</Flipped>
-                        <ID>3</ID>
                         <Image>10</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
                       <ViewFrame>
                         <Delay>0</Delay>
                         <Flipped>False</Flipped>
-                        <ID>4</ID>
+                        <ID>3</ID>
                         <Image>11</Image>
                         <Sound>0</Sound>
                       </ViewFrame>
